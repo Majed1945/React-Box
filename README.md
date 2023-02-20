@@ -14,4 +14,3 @@ The detailed information of company employees and customers is maintained in the
 4-add the .env file which has the following content:<br>
 MONGO_URI = "mongodb+srv://Majd:3090Mm5.@cluster0.nlub8pr.mongodb.net/Box"
 JWT_SECRET = koi123<br>
-5-At first trial, please go to the route "/register" because the application requires registration to create local storage that is necessary to run the main page
