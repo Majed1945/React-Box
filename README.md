@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/4YIdN9xbtuz46cFnIN/giphy.gif" width="500" hieght="100%">
 
-Box is a Full-stack web-based application for a package delivery service that allows company to track shipments and users to send/receive shipments. 
-It also a system that functions similarly like other package delivery companies (e.g., SMSA, DHL or FedEX). 
-The application also keeps track of customers (who ship packages) and customers(who receive packages)
+Box is a Full-stack web application for a package delivery service that allows shipping companies to track shipments and users to send/receive shipments. 
+The system functions similar to other package delivery companies (e.g., SMSA, DHL or FedEX). 
+The application also keeps track of customers (who ship packages) and customers (who receive packages)
 The detailed information of company employees and customers is maintained in the database and can be accessed/viewed in the administrator page.
 
 # Project Set Up
